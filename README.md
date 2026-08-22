@@ -54,8 +54,9 @@ Yamuna Travels/
 │   ├── images/
 │   ├── favicon.png
 │   └── logo.png
-├── out/
 ├── next.config.mjs
 ├── package.json
+├── package-lock.json
+├── postcss.config.mjs
 ├── tsconfig.json
 └── README.md
